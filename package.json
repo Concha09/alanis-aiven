@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "gh-pages": "^6.3.0",
     "lucide-react": "latest",
     "react": "latest",
     "react-dom": "latest",
